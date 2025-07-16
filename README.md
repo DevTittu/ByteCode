@@ -93,12 +93,9 @@ To contribute to this project:
    ```bash
    git checkout -b feature/YourFeature
    ```
-2. Commit your changes and push to your branch:
-   ```bash
-   git commit -m "Add feature description"
-   git push origin feature/YourFeature
-   ```
-3. Open a pull request for review.
+
+2. Open a pull request for review.
+3. for a fast response you can mail me at c.gourab180@gmail.com
 
 ---
 
